@@ -1,7 +1,7 @@
 # 📌 Retail_Analysis_SQL_Project
 This project focuses on a retail company facing challenges with sales transaction, customer profile and inventory management. Through a comprehensive data analysis approach using SQL, this case study aims to address key business problems and insights such as high and low sales products, segment the customer base, and analyze customer behaviour.
 
-## 📂 Datasets Used
+## 📂 Datasets Information
 
 The analysis for this case study is based on the following three datasets:
 1.	Sales Transaction: Contains detailed records of sales, including transaction IDs, customer IDs, product IDs, quantity purchased, transaction dates, and prices.
