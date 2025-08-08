@@ -27,7 +27,7 @@ Data Import: All CSV files were imported into MySQL Workbench.
  **SQL Analysis:**
  
 1.	JOIN operations for combining relational tables
-2.	GROUP BY and HAVING for aggregated insights like 
+2.	GROUP BY and HAVING for aggregated insights
 3.	SUM, COUNT for total sales, total quantity, customer segments
 
 
