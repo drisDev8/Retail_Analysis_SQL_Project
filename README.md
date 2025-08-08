@@ -57,7 +57,7 @@ Through this project, I gained hands-on experience in:
 3.	Strengthened ability to join and manage multiple relational tables effectively.
 4.	Built a data-driven, business-oriented problem-solving approach.
 
-## 👤 Contact
+## 👤 About Me
 
  LinkedIn: https://www.linkedin.com/in/dristi-handique/ 
 
