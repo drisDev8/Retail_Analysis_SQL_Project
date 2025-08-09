@@ -40,7 +40,7 @@ Designed queries to track key metrics like:
 4.	Top products with the highest total sales revenue
 5.	Low Sales products 
 
-## 🔍 Key Insights & Solutions
+## 🔍 Key Insights
 
 Here are some actionable insights derived from the SQL analysis:
 1.	Total Sales: Calculated total sales and quantities sold per product using aggregated queries.
