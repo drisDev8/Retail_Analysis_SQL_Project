@@ -46,7 +46,7 @@ Here are some actionable insights derived from the SQL analysis:
 1.	Total Sales: Calculated total sales and quantities sold per product using aggregated queries.
 2.	Customer Segmentation: Customers were segmented into "High," "Mid," and "Low" value groups to enable more effective and personalized marketing strategies.
 3.	High sales products: ProductID 17 has 9450 total units sold as the highest sale.
-4.	Low sales products: ProductID 142 has 27 total units sold as the least sale
+4.	Low sales products: ProductID 142 has 27 total units sold as the least sale.
 5.	Top Customers with recent transactions: Listed each customers with most recent transactions.
 
 ## 🧠 Skills Gained
