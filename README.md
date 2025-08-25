@@ -1,20 +1,20 @@
 # 📌 Retail_Analysis_SQL_Project
 This project focuses on a retail company facing challenges with sales transaction, customer profile and inventory management. Through a comprehensive data analysis approach using SQL, this case study aims to address key business problems and insights such as high and low sales products, segment the customer base, and analyze customer behaviour.
 
-## 📂 Datasets Information
+# 📂 Datasets Information
 
 The analysis for this case study is based on the following three datasets:
 1.	Sales Transaction: Contains detailed records of sales, including transaction IDs, customer IDs, product IDs, quantity purchased, transaction dates, and prices.
 2.	Customer Profiles: Provides information on individual customers, such as customer IDs, age, gender, location, and join dates.
 3. Product Inventory: Includes data on the products themselves, such as product IDs, product names, categories, stock levels, and prices.
 
-## 🎯 Business Problems Addressed
+# 🎯 Business Problems Addressed
 
 1.	Operational Efficiency: Optimizing inventory management to ensure efficient stock levels by identifying high and low sales products.
 2.	Competitive Advantage: Developing data-driven strategies to stay ahead of competitors by analyzing sales trends and identifying opportunities for targeted offers and promotions.
 3.	Customer Satisfaction: Improving customer satisfaction and retention by analyzing customer behavior, including repeat purchases and loyalty, to create more effective and personalized marketing campaigns.
 
-## 🛠️ Methodology
+# 🛠️ Methodology
 
 Data Import: All CSV files were imported into MySQL Workbench.
 
@@ -40,7 +40,7 @@ Designed queries to track key metrics like:
 4.	Top products with the highest total sales revenue
 5.	Low Sales products 
 
-## 🔍 Key Insights
+# 🔍 Key Insights
 
 Here are some actionable insights derived from the SQL analysis:
 1.	Total Sales: Calculated total sales and quantities sold per product using aggregated queries.
@@ -49,7 +49,7 @@ Here are some actionable insights derived from the SQL analysis:
 4.	Low sales products: ProductID 142 has 27 total units sold as the least sale.
 5.	Top Customers with recent transactions: Listed each customers with most recent transactions.
 
-## 🧠 Skills Gained
+# 🧠 Skills Gained
 
 Through this project, I gained hands-on experience in:
 1.	Developed practical experience in writing SQL queries to solve real-world business problems.
@@ -57,7 +57,7 @@ Through this project, I gained hands-on experience in:
 3.	Strengthened ability to join and manage multiple relational tables effectively.
 4.	Built a data-driven, business-oriented problem-solving approach.
 
-## 👤 About Me
+# 👤 About Me
 
  LinkedIn: https://www.linkedin.com/in/dristi-handique/ 
 
